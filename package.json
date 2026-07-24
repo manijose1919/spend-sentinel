@@ -4,6 +4,22 @@
   "description": "Local-first SaaS spend & renewal tracking — Free tier. Track subscriptions, see spend, never miss a renewal.",
   "type": "module",
   "license": "MIT",
+  "author": "Spend Sentinel",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manijose1919/spend-sentinel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manijose1919/spend-sentinel/issues"
+  },
+  "homepage": "https://github.com/manijose1919/spend-sentinel#readme",
+  "files": [
+    "dist",
+    "README.md",
+    "HOW-TO.md",
+    "SETUP.md",
+    "LICENSE"
+  ],
   "bin": {
     "sentinel": "./dist/interfaces/cli/index.js"
   },

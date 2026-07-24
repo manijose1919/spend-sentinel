@@ -1,0 +1,29 @@
+name: Feature request
+description: Suggest an idea for the free core
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+      description: Describe the pain point. What are you trying to do?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: What would you like to see happen?
+    validations:
+      required: true
+  - type: dropdown
+    id: tier
+    attributes:
+      label: Does this belong in the free core?
+      description: Alerts, analytics, and integrations generally live in the paid editions.
+      options:
+        - "Yes — it's core subscription/spend/renewal tracking"
+        - "Not sure"
+        - "Maybe a paid-tier feature"
+    validations:
+      required: true

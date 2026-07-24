@@ -1,0 +1,6 @@
+vendor,cost,billingCycle,startDate,plan,currency,seats,department,status,renewalDate,autoRenew,notes
+Figma,15,monthly,2026-01-10,Professional,USD,5,Design,active,,true,
+Datadog,"1,200",annual,2026-01-01,Pro,USD,25,Engineering,active,,true,Renewal negotiated in Q4
+Slack,800,monthly,2026-02-01,Business+,USD,40,Company,active,,true,
+Notion,8,monthly,2026-03-15,Plus,USD,12,Product,trial,,false,Evaluating vs Confluence
+Zoom,15,monthly,2026-04-01,Pro,USD,3,Sales,active,,true,

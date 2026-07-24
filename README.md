@@ -1,5 +1,10 @@
 # 🛡️ Spend Sentinel — Free
 
+[![CI](https://github.com/manijose1919/spend-sentinel/actions/workflows/ci.yml/badge.svg)](https://github.com/manijose1919/spend-sentinel/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Node.js](https://img.shields.io/badge/node-%3E%3D20-brightgreen.svg)](https://nodejs.org)
+[![Tests](https://img.shields.io/badge/tests-56%20passing-success.svg)](#testing)
+
 **Local-first SaaS spend & renewal tracking.** Register your software subscriptions, see your true monthly and annual run-rate, and never get surprised by an auto-renewal again. Runs entirely on your machine — your financial data never leaves your computer.
 
 > This is the **free, open-source core** (MIT licensed). It is a complete, standalone product. Premium and Pro editions add alerts, savings analytics, and automated shadow-SaaS discovery — see [Upgrading](#upgrading).
